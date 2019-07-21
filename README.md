@@ -3,11 +3,11 @@ C++ implementation of B+ tree in the book **Database System Concepts** (6th edit
 ## Introduction
 The B+ tree is implemented in C++, following the pseudo-code in the book mentioned above. I've carefully tested it and it works fine so far.  
 ## Supported Operations
-find  
-print  
-insert  
-delete  
+### find  
+### print  
+### insert  
+### delete  
 ## Limitations  
-Currently the key in this B+ tree only supports **string** type.
+Currently the key only supports **string** type.
 ## License  
 All the source code is distributed under the MIT license.
