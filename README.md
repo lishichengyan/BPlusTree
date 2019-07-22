@@ -10,4 +10,4 @@ The B+ tree is implemented in C++, following the pseudo-code in the book mention
 ## Limitations  
 Currently the key only supports **string** type.
 ## License  
-All the source code is distributed under the MIT license.
+All the source code is distributed under MIT license.
