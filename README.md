@@ -2,6 +2,8 @@
 C++ implementation of B+ tree in the book **Database System Concepts** (6th edition, Abraham Silberschatz, Henyu F. Korth and S. Sudarshan)
 ## Introduction
 The B+ tree is implemented in C++, following the pseudo-code in the book mentioned above. I've ~~carefully~~ tested it and it works fine so far.  
+## How to Run
+I use **Clion** on windows 10, but basically I think any machine that has a C++ compiler can compile the code, so don't worry about cross-platform problems.
 ## Supported Operations
 ### Find  
 Function ```find(string v)``` returns leaf node pointer ```c``` and index ```i``` such that ```c->_ptrs[i]``` points to the first record with search key ```v```. Due to B+ tree's balance property, this should run in ```O(tree height)``` time.
