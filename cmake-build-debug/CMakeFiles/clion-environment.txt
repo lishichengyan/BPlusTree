@@ -1,0 +1,4 @@
+ToolSet: w64 5.0@D:\HaskellPlatform842\8.4.2\mingw
+Options: 
+
+Options:

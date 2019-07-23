@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/BPlusTree/BPlusTree.cpp
+BPlusTree.h
+D:/BPlusTree/BPlusTree.h
+cmath
+-
+iostream
+-
+algorithm
+-
+queue
+-
+
+D:/BPlusTree/BPlusTree.h
+vector
+-
+string
+-
+
+D:/BPlusTree/main.cpp
+BPlusTree.h
+D:/BPlusTree/BPlusTree.h
+iostream
+-
+
