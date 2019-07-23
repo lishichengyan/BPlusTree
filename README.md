@@ -20,7 +20,7 @@ Currently unimplemented. Sorry!
 3. Not robust enough. If you're reading Abraham Silberschatz's book and has the curiosity to convert the pseudo-code into a real program, this repository may be a good reading material, but if you want to use the source code in your project, you're probably in the wrong place. Before I well-test the code, I do not recommend you to use it for any serious developing. But believe me, the tree will be robust in the near future.  
 ## Demo 
 Let's take a look at how insertion works:  
-First we declare an array, simulatiing a table in the database:   
+First we define an array ```a```, simulatiing a table in the database:   
 ```int a[30] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30};```  
 Next we new a b+ Tree with order 4:  
 ```auto tree = new BPlusTree(4);```  
