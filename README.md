@@ -1,7 +1,7 @@
 # BPlusTree
 C++ implementation of B+ tree in the book **Database System Concepts** (6th edition, Abraham Silberschatz, Henyu F. Korth and S. Sudarshan)
 ## Introduction
-The B+ tree is implemented in C++, following the pseudo-code in the book mentioned above. I've ~~carefully~~ tested it and it works fine so far.  
+The B+ tree is implemented in C++, following the pseudo-code in the book mentioned above. I've ~~carefully~~ tested it on a small scale and it works fine so far.  
 ## How to Run
 I use **Clion** on windows 10, but basically I think any machine that has a C++ compiler can compile the code, so don't worry about cross-platform problems.
 ## Supported Operations
