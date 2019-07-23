@@ -56,6 +56,6 @@ tree->do_insertion("029", &a[28]);
 tree->do_insertion("030", &a[29]);
 ```   
 these operations finally form such a B+ tree:   
-
+![demo](./pictures/pic0.png)
 ## License  
 All the source code is distributed under MIT license.
