@@ -58,7 +58,7 @@ tree->do_insertion("029", &a[28]);
 tree->do_insertion("030", &a[29]);
 ```   
 these operations finally form such a B+ tree:   
-![demo](./pictures/pic0.png)  
+![demo](./pictures/demo_pic0.png)  
 in the above picture, each blue-colored grid represents a pointer field while white grid a key field. 
 ## License  
 **All the source code is distributed under GPL license.**
