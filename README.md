@@ -11,7 +11,7 @@ Function ```find(string v)``` returns leaf node pointer ```c``` and index ```i``
 Function ```printAll(string v)``` prints all records with search key ```v``` such that ```key >= v```.   
 Function ```printTree()``` prints all detailed information about the tree node, for example, node type, keys, values(if it's a leaf), etc. 
 ### Insert  
-Function ```do_insertion(string k, void *p)``` inserts pair ```(k, p)``` to the correct position. It's a complex procedure since the tree node may **split** if its room runs out, meanwhile we need to take care of the node type(T_ROOT, T_INTERNAL and T_LEAF, for example), the node's type may need to be adjusted during insertion.  
+Function ```do_insertion(string k, void *p)``` inserts pair ```(k, p)``` to the correct position. It's a complex procedure since the tree node may **split** if exceeding node capacity, meanwhile we need to take care of the node type(T_ROOT, T_INTERNAL and T_LEAF, for example), the node's type may need to be adjusted during insertion.  
 ### Delete  
 Currently unimplemented. Sorry!  
 ## Limitations  
