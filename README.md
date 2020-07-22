@@ -17,7 +17,7 @@ Currently unimplemented. Sorry!
 ## Limitations  
 1. Up to now the key only supports **string** type.  
 2. Deletion not ready.  
-3. Not robust enough. If you're reading Abraham Silberschatz's book and has the curiosity to convert the pseudo-code into a real program, this repository may be a good reading material, but if you want to use the source code in your project, you're probably in the wrong place. Before I well-test the code, I do not recommend you to use it for any serious developing. But believe me, the tree will be robust in the near future.  
+3. Not robust enough. If you're reading Abraham Silberschatz's book and has the curiosity to convert the pseudo-code into a real program, this repository may be a good reading material, but if you want to use the source code in your project, you're probably in the wrong place. Before I well-test the code, I do not recommend you to use it for any serious developing. 
 ## Demo 
 Let's take a look at how insertion works:  
 First we define an array ```a```, simulatiing a table in the database:   
