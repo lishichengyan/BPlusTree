@@ -1,3 +1,0 @@
-"D:\CLION\CLion 2017.3.4\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\BPlusTree.dir/objects.a
-D:\HaskellPlatform842\8.4.2\mingw\bin\ar.exe cr CMakeFiles\BPlusTree.dir/objects.a @CMakeFiles\BPlusTree.dir\objects1.rsp
-D:\HaskellPlatform842\8.4.2\mingw\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\BPlusTree.dir/objects.a -Wl,--no-whole-archive  -o BPlusTree.exe -Wl,--out-implib,libBPlusTree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BPlusTree.dir\linklibs.rsp
