@@ -7,7 +7,7 @@ Use ```make``` to compile, the default name of the program is ```bplustree```.
 
 Use ```./bplustree``` to run.
 
-User ```make clean``` to clean.
+Use ```make clean``` to clean.
 ## Supported Operations
 ### Find  
 TODO
