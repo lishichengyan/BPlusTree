@@ -22,4 +22,4 @@ TODO
 ## Demo 
 TODO
 ## License  
-All the source code is distributed under the GPL license.
+GPL v3.0.
